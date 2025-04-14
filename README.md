@@ -1,0 +1,7 @@
+Heart disease is a leading cause of death globally. Early prediction of heart-related issues can save lives and reduce medical costs. This project aims to implement a machine learning-based approach to predict the presence of heart disease using patient data. Various classification algorithms were explored and compared to determine the best-performing model.
+
+The dataset used in this project was sourced from the UCI Machine Learning Repository, which includes several clinical parameters such as age, sex, blood pressure, cholesterol, chest pain type, and others. The primary objective was to train and evaluate different machine learning algorithms to identify patients at risk of developing heart disease. We used models like Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors to find the best performing method.
+
+After preprocessing the data and conducting exploratory analysis, we built the models and evaluated them using standard performance metrics including accuracy, precision, recall, and F1-score. Among all models, the Random Forest Classifier achieved the highest accuracy, demonstrating its robustness in classification tasks.
+
+This project not only demonstrates the application of machine learning in healthcare but also emphasizes the importance of data quality, feature selection, and algorithm tuning in developing effective predictive systems. The findings of this work can be a valuable addition to clinical decision support systems, potentially improving early diagnosis and patient outcomes in real-world healthcare settings
